@@ -2,6 +2,8 @@
 Contém os códigos e bibliotecas utilizadas no meu trabalho de conclusão do curso de engenharia elétrica. MEDIDOR DE CONSUMO DE ENERGIA ELÉTRICA COM ACESSO LOCAL E REMOTO USANDO PLATAFORMA ESP8266
 O projeto é funcional, mas didático, pois encontra alguns problemas de compatibilidade entre a biblioteca (e o próprio módulo) PZEM004T v1.0 e a arquiterura ESP, não resolvidos neste trabalho.
 
+VÍDEO LINK (Conclusão e Validação): https://youtu.be/OlfsI2xzfWI
+
 PRIMEIROS PASSOS:
 Usar IDE Arduino 1.8.5 ou superior: https://www.arduino.cc/en/Main/Software (siga as instruções do seu SO);
 
